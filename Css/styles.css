@@ -1,0 +1,61 @@
+body
+{
+    font-family: "Karla";
+    font-weight: 400;
+}
+.cyan
+{
+    background-color: #fff;
+    padding:5%;
+    text-align: left;
+}
+h1
+{
+    color: hsl(179, 62%, 43%);
+}
+.sub-heading{
+    color: hsl(71, 73%, 54%);
+    font-size: 30px;
+}
+.content
+{
+    font-size: 20px;
+}
+.rc
+{
+    background-color: hsl(179, 62%, 43%);
+    padding: 3%;
+    line-height:2.0;
+}
+.rmargin
+{
+    margin-bottom: 5%;
+}
+.next
+{
+    color: #fff;
+    font-size: 26px;
+}
+.next1
+{
+    font-size: 39px;
+    color: #fff;
+}
+.span
+{
+    font-size: 16px;
+    position: relative;
+    bottom:5px;
+    color: #E0E1E4;
+}
+.next2
+{
+    color: #fff;
+    font-size: 16px;
+}
+.colour
+{
+    background-color: hsl(179, 62%, 43%);
+    filter: brightness(92%);
+    padding: 3%;
+}
